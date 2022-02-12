@@ -24,3 +24,5 @@ Test9: Driver/Observer Tags added to commit message with 2 Committer
 Test10: Driver/Observer Tags added to commit message with 2 Committer
 
 Test11: Driver/Observer Tags added to commit message with 2 Committer
+
+Test12: Driver/Observer Tags added to commit message with 2 Committer
