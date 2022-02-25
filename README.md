@@ -26,3 +26,5 @@ Test10: Alphebatize Committers List
 Test11: Testing Time Stamp in Commit -1
 
 Test12: Testing Time Stamp in Commit -2
+
+Test13: Testing Time Stamp in Commit -3
