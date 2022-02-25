@@ -22,3 +22,5 @@ Test8: Driver/Observer Tags added to commit message with 2 Committer
 Test9: Driver/Observer Tags added to commit message with 2 Committer
 
 Test10: Alphebatize Committers List
+
+Test11: Testing Time Stamp in Commit -1
